@@ -136,6 +136,15 @@ function makeIntern() {
     })
 }
 
+function renderHtml() {
+    fs.writeFileSync(outputPath, render(employees)) 
+
+    console.log("Successfully wrote employee file");
+    
+}
+
+promptUser();
+
 
 
 
