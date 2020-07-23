@@ -15,8 +15,9 @@ A software engineering team generator command line application used to generate 
 ## Usage
 To use this template builder, open the correct directory in your terminal. Run a 'node app.js' command to begin the prompts. Answer all prompts with the corresponding information. Once all questions have been answered, a teamprofile.html will be created in the output directory. 
 
-<img src="assets/images.terminal.png"></img>
-<img src="assets/images.webpage.png"></img>
+![Demo of App in Terminal](assets/images/terminal.png)
+![Demo of Finished WEbpage](assets/images/webpage.png)
+
 
 ## Credits
 This app was built using starter code provided by the University of Denver Full Stack Flex boot camp. 
