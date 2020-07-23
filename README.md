@@ -26,10 +26,10 @@ This app was built using starter code provided by the University of Denver Full 
 GNU General Public License v3
 
 ## Contributing
-contributer covenant - turn this in to a link to the page
+Please follow the Contributer Covenant guidelines if contributing to this application. 
 
 ## Tests
-Jest testing, list out tests
+Jest was used to test a series of functions including if the code can instantiate and Employee instance; can a name, email, ID be set via constructor arguments; can the code then get all the required data and return it in the proper order.
 
 ## Questions?
-Please email any questions to [ncastledeveloper@gmail.com](mailto:ncastledeveloper@gmail.com) or find me on Github [nikcastle](https://github.com/nikcastle).
+Please email any questions to [ncastledeveloper@gmail.com](mailto:ncastledeveloper@gmail.com) or find me on Github [@nikcastle](https://github.com/nikcastle).
